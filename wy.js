@@ -1,9 +1,8 @@
 // second engine DM
 search_engine = '';
-search_engine += '<label class="checkbox-inline"><input type="radio" name="ops_engine" id="engine1" value="https://m.mijisou.com/?q=" checked>秘迹</label>';
-search_engine += '<label class="checkbox-inline"><input type="radio" name="ops_engine" id="engine2" value="https://m.baidu.com/s?wd=">百度</label>';
-search_engine += '<label class="checkbox-inline"><input type="radio" name="ops_engine" id="engine3" value="https://cn.bing.com/search?q=">微软</label>';
-search_engine += '<label class="checkbox-inline"><input type="radio" name="ops_engine" id="engine4" value="https://wuyayy.com/search.php?searchword=">电影</label>';
+search_engine += '<label class="checkbox-inline"><input type="radio" name="ops_engine" id="engine1" value="https://m.mijisou.com/?q=" checked>秘迹搜索</label>';
+search_engine += '<label class="checkbox-inline"><input type="radio" name="ops_engine" id="engine2" value="https://m.baidu.com/s?wd=">百度一下</label>';
+search_engine += '<label class="checkbox-inline"><input type="radio" name="ops_engine" id="engine3" value="https://wuyayy.com/search.php?searchword=">乌鸦电影</label>';
 
 // second box DM
 search_box = '';
